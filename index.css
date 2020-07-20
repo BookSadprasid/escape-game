@@ -1,0 +1,244 @@
+body {
+    color: #610C0D;
+    font-family: 'Merriweather', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.mainbox {
+    width: 1252px;
+    justify-content: center;
+}
+
+.btn {
+    border: 1px solid #610C0D;
+    box-sizing: border-box;
+    border-radius: 40px;
+    color: inherit;
+    padding: 14px 23px;
+    font-size: inherit;
+    background-color: white;
+    font-family: inherit;
+}
+
+.topbox {
+    display: flex;
+    margin-top: 47px;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.headerLogo {
+    height: 25px;
+    margin-right: 252px;
+}
+
+.nav {
+    margin-right: 290px;
+}
+
+.navItem {
+    margin-right: 27px;
+    color: inherit;
+    text-decoration: none;
+}
+
+.firstScroll {
+
+}
+
+.title {
+    color: #610C0D;
+    font-family: 'Lato', sans-serif;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+    margin-bottom: 17px;
+    margin-left: 283px;
+
+}
+
+.hero {
+    height: 734.93px;
+}
+
+.secondScroll {
+    margin-top: 132.07px;
+    display: flex;
+    justify-content: center;
+}
+
+.leftSecond {
+    width: 389px;
+    height: 154px;
+    
+    text-transform: uppercase;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: right;
+}
+
+.rightSecond {
+    margin-left: 79px;
+}
+
+.rightSecondText {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #4E4C4C;
+
+    width: 545px;
+    height: 154px;
+
+}
+
+.thirdScroll {
+    margin-top: 57px;
+    display: flex;
+    justify-content: center;
+}
+
+.leftThirdText {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: uppercase;
+
+    width: 319px;
+    height: 105px;
+
+}
+
+.rightThird {
+    display: flex;
+}
+
+.download {
+    width: 206px;
+    height: 229px;
+    background: #C4C4C4;
+    margin-right: 17px;
+}
+
+.fourth {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 106px;
+}
+
+.getStarted {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    text-transform: uppercase;
+}
+
+.tempVid {
+    width: 466px;
+    height: 270.64px;
+    
+    margin-top: 25px;
+}
+
+.rightFourth {
+    width: 545px;
+    height: 97px;
+    margin-top: 112px;
+    margin-left: 60px;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E4C4C;
+
+}
+
+.fifth {
+    margin-top: 106.36px;
+    display: flex;
+    justify-content: center;
+}
+
+.gameControl {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: uppercase;
+    width: 197px;
+    height: 154px;
+    margin-left: -223px;
+
+    position: absolute
+}
+
+.footer {
+    background-image: url("./public/Footer.png");
+    height: 428px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+    display: flex;
+}
+
+.HCILogo {
+    width: 208px;
+    height: 76.78px;
+    margin-left: 223px;
+    margin-top: 145px;
+}
+
+.footerText {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: thin;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+    width: 379px;
+    height: 132px;
+    margin-left: 229px;
+    margin-top: 22px;
+}
+
+.rightFooterText {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: thin;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+    width: 379px;
+    height: 50px;
+
+}
